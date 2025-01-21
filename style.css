@@ -1,0 +1,16 @@
+body {
+    font-family: "Arial", sans-serif;
+    font-size: 50px;
+    color: yellow;
+    /* background: bisque url("img/1.jpg") repeat 50% 0; */
+     background: bisque url("img/green-grass-background-1469431823q9Q.jpg") repeat 50% 0; 
+}
+
+h1 {
+    color: yellow;
+    text-align: center;
+}
+
+img {
+ width: 100px;
+}
